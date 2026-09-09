@@ -17,12 +17,12 @@
         "upload = files.upload()"
       ],
       "metadata": {
-        "id": "nlFdUk3tOp9v",
-        "outputId": "43caa0e2-cdde-4256-a329-02862fc53af4",
         "colab": {
           "base_uri": "https://localhost:8080/",
           "height": 73
-        }
+        },
+        "id": "nlFdUk3tOp9v",
+        "outputId": "43caa0e2-cdde-4256-a329-02862fc53af4"
       },
       "execution_count": 1,
       "outputs": [
@@ -260,12 +260,12 @@
         "df.head()\n"
       ],
       "metadata": {
-        "id": "p0devjgBPnUI",
-        "outputId": "5121672c-337e-437a-96f6-9642d60545c2",
         "colab": {
           "base_uri": "https://localhost:8080/",
           "height": 446
-        }
+        },
+        "id": "p0devjgBPnUI",
+        "outputId": "5121672c-337e-437a-96f6-9642d60545c2"
       },
       "execution_count": 4,
       "outputs": [
@@ -578,11 +578,11 @@
         "df.shape"
       ],
       "metadata": {
-        "id": "_WNEFgOGQBLh",
-        "outputId": "f79a0509-87a9-40b3-bdb1-d0d1f1c65756",
         "colab": {
           "base_uri": "https://localhost:8080/"
-        }
+        },
+        "id": "_WNEFgOGQBLh",
+        "outputId": "f79a0509-87a9-40b3-bdb1-d0d1f1c65756"
       },
       "execution_count": 5,
       "outputs": [
@@ -604,11 +604,11 @@
         "df.info()"
       ],
       "metadata": {
-        "id": "-9aoElJ-QCgR",
-        "outputId": "feed9eae-ea20-4a39-9885-2b7579a69afc",
         "colab": {
           "base_uri": "https://localhost:8080/"
-        }
+        },
+        "id": "-9aoElJ-QCgR",
+        "outputId": "feed9eae-ea20-4a39-9885-2b7579a69afc"
       },
       "execution_count": 6,
       "outputs": [
@@ -631,12 +631,12 @@
         "df.isnull().mean()"
       ],
       "metadata": {
-        "id": "hAwY85xiQHpF",
-        "outputId": "7ae7f7c0-800f-4dcd-b1b5-7d69154f87ce",
         "colab": {
           "base_uri": "https://localhost:8080/",
           "height": 458
-        }
+        },
+        "id": "hAwY85xiQHpF",
+        "outputId": "7ae7f7c0-800f-4dcd-b1b5-7d69154f87ce"
       },
       "execution_count": 7,
       "outputs": [
@@ -741,12 +741,12 @@
         "df.describe(include='all')"
       ],
       "metadata": {
-        "id": "gvsdTKGIQPnX",
-        "outputId": "7afa5e9c-4667-4ab9-d6cc-4497cfc27cbe",
         "colab": {
           "base_uri": "https://localhost:8080/",
           "height": 530
-        }
+        },
+        "id": "gvsdTKGIQPnX",
+        "outputId": "7afa5e9c-4667-4ab9-d6cc-4497cfc27cbe"
       },
       "execution_count": 8,
       "outputs": [
@@ -1245,12 +1245,12 @@
         "df.describe(include='object')"
       ],
       "metadata": {
-        "id": "jXVrOsymQZwe",
-        "outputId": "9a87368b-824c-4bf5-d92d-ab9b69cb7756",
         "colab": {
           "base_uri": "https://localhost:8080/",
           "height": 311
-        }
+        },
+        "id": "jXVrOsymQZwe",
+        "outputId": "9a87368b-824c-4bf5-d92d-ab9b69cb7756"
       },
       "execution_count": 9,
       "outputs": [
@@ -1548,11 +1548,11 @@
         "print(df['Displacement'].unique())"
       ],
       "metadata": {
-        "id": "NYFH7jCVQrK8",
-        "outputId": "5d059c2e-e22f-4023-899f-2f77b7e188c6",
         "colab": {
           "base_uri": "https://localhost:8080/"
-        }
+        },
+        "id": "NYFH7jCVQrK8",
+        "outputId": "5d059c2e-e22f-4023-899f-2f77b7e188c6"
       },
       "execution_count": 13,
       "outputs": [
@@ -1594,11 +1594,11 @@
         "df.columns"
       ],
       "metadata": {
-        "id": "MrbOZxoZRXMV",
-        "outputId": "5cab736b-a16c-4358-914a-c62b472e5b46",
         "colab": {
           "base_uri": "https://localhost:8080/"
-        }
+        },
+        "id": "MrbOZxoZRXMV",
+        "outputId": "5cab736b-a16c-4358-914a-c62b472e5b46"
       },
       "execution_count": 14,
       "outputs": [
